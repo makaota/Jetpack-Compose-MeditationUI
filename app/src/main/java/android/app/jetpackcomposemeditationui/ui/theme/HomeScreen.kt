@@ -147,3 +147,8 @@ fun CurrentMeditation(
 
     }
 }
+
+@Composable
+fun FeatureSection(){
+
+}
